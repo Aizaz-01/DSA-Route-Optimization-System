@@ -1,2 +1,21 @@
-# DSA-Project-Route-Optimization-System-
-Route Optimization System  is a C++ &amp; Qt application that visualizes and solves the Traveling Salesman Problem. It calculates optimal travel routes using Greedy, Brute Force, and custom Hybrid algorithms. Features include force-directed graph rendering, animated path-tracing, and performance analysis of various graph data structures.
+# Route Optimization System
+
+A DSA semester project developed in C++ using Qt Creator.
+
+## Features
+- Route Optimization
+- GUI Visualization
+- Greedy / Brute Force / Hybrid Algorithms
+
+## Technologies
+- C++
+- Qt Creator
+
+## How to Run
+1. Open the `.pro` file in Qt Creator
+2. Configure the compiler kit
+3. Press Run
+
+## Files
+- `main.cpp` → Main source code
+- `.pro` → Qt project file
