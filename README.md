@@ -65,7 +65,21 @@ The project models locations and routes as graph structures where:
 The application calculates optimized routes between nodes using multiple algorithmic approaches designed to reduce overall travel cost and improve efficiency.
 
 ---
+## Input Format (Text File Based)
 
+The system reads input from:
+
+|data/input.txt|
+
+# Format:
+
+|CityID X Y|
+
+Example:
+
+|1 10 20|
+|2 15 35|
+|3 40 60|
 
 
 # Algorithms Used
