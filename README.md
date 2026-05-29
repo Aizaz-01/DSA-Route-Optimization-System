@@ -62,10 +62,22 @@ main.cpp          # Main application source code
 
 # Screenshots
 
-## Main Interface
-
-main_page.png
-```
+## Main Page
+![Main Page](images/main_page.png)
+## Interface
+![Interface](images/interface.png)
+## Orignal Graph
+![Orignal Graph](images/orignal_graph.png)
+## Greedy Run
+![Greedy Run](images/greedy_run.png)
+## Brute Force Run
+![Brute Force](images/brute-force_run.png)
+## Hybrid Run
+![Hybrid Run](images/hybrid_run.png)
+## Performance Report
+![Performance Report](images/performance_report.png)
+## Memory Analysis
+![Memory Analysis](images/memory_analysis.png)
 
 ---
 
