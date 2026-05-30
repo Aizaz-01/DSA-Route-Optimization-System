@@ -173,8 +173,8 @@ This project helped strengthen understanding of:
 GitHub Repository:
 https://github.com/Aizaz-01/DSA-Project-Route-Optimization-System-
 ---
-# Author
-## Aizaz
+# Developer
+## M.Aizaz Nisar
 Data Structures & Algorithms Semester Project
 ---
 # Conclusion
